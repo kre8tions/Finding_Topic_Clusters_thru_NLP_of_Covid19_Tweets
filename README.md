@@ -1,4 +1,4 @@
-# Natural Language Processing of Covid19 Tweets
+# Finding Topic Clusters thru Natural Language Processing of Covid19 Tweets
 
 2020 has been a unique year with the Coronavirus putting the world in lockdown, forcing us to adjust to “new normals” . There hasn’t been a time when people all over the world go into self-seclusion for an entire year such as we have done. Our goal is to work with twitter feeds scraped from March 30th to April 30th, 2020 and to see if we could explore some questions in this worldwide laboratory:
 
