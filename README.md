@@ -20,4 +20,4 @@ https://www.kaggle.com/smid80/coronavirus-covid19-tweets
 * Using KMeans Clustering to discover topical clusters
 * Finally, extracting important topical keywords using Latent Dirichlet Allocation
 
-![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP%20of%20Covid19%20Tweets.JPG)
+![](https://github.com/kre8tions/Alex_Chung_Portfolio/blob/main/Images/NLP_of_Covid19_Tweets.jpg)
